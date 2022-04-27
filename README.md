@@ -1,2 +1,2 @@
 # git_master
-test
+branch2,test
